@@ -1,0 +1,1 @@
+reveal-md deploying_deep_learning.md --static docs
