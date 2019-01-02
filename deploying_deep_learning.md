@@ -36,7 +36,7 @@ Looking for Presenters
 > Higher-scale --> Resources to solve that challenge
 ---
 ## Normal Father-Son Activities
-<img src="./images/NormalFatherSon.jpg"  height="500">
+<img src="./images/NormalFatherSon.JPG"  height="500">
 
 ---
 ## Data Science Father-Son
