@@ -45,32 +45,41 @@ Looking for Presenters
 ## Fast.ai v3
 <img src="./images/bears.png"  width="500">
 ---
-## Good Friends
-<img src="./images/TabularPredictions.png"  width="500">
----
-## Fast.ai Lessons
 
-*
-[What was important about Fast.ai for Zach]
+## Applying Fast.ai
+
+### Is it Venemous?
+
+---
+## Good Friends
+<img src="./images/zach_zane.jpg"  width="500">
 ---
 ## Is it Venemous?
 
 <img src="./images/RingNeck.jpg"  width="500">
 ---
-## Gathering Data
-[Image Download snippet]
+## Google Colab
+<img src="./images/ColabNotebook.png"  width="500">
 ---
-## Clean up Data
-[Something related to cleaning up date]
+## Gathering and Sorting Data
+<img src="./images/making_folders.png"  width="500">
 ---
-## CollabNet
-[Picture of Notebook]
+## Learning
+<img src="./images/ReLearn.png"  width="500">
 ---
 ## Incorrectly Classified
-[Picture of Incorrect Matrix]
+<img src="./images/confusion_matrix.png"  width="500">
 ---
-## Good Accuracy
-[Picture of accuracy]
+## Clean up Data
+<img src="./images/most_confuse_pred.png"  width="500">
+---
+## Fast.ai Lessons
+
+* Need an expert to help verify what you are doing is correct
+* Google Colab wipes workspace after 12 hours
+* Google Colab does not support plugins
+* For a free service still works exceptionally well
+
 ---
 ## Let's Build a Website
 <img src="./images/file_uploader.png"  width="800">
@@ -152,7 +161,7 @@ https://vsupalov.com/flask-web-server-in-production/
 * Denial of Service Attack Robustness
 * Direct Service Access by 3rd Party 
 ---
-## Distributed Procedure Call
+## Calling between languages
 ```elixir
   @doc """
   Call python function using MFA format
@@ -163,6 +172,7 @@ https://vsupalov.com/flask-web-server-in-production/
 
   end
 ```
+* Elixir calling Python
 ---
 ## Example Applications
 
