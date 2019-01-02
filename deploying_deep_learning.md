@@ -55,7 +55,7 @@ Looking for Presenters
 ---
 ## Is it Venemous?
 
-<img src="./images/RingNeck.png"  width="500">
+<img src="./images/RingNeck.jpg"  width="500">
 ---
 ## Gathering Data
 [Image Download snippet]
