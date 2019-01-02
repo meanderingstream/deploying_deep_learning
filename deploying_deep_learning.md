@@ -8,11 +8,11 @@ revealOptions:
 
 Scott Mueller
 
+###### smueller.tampa.ai@gmail.com
+
 Zach Mueller
+###### muellerzr@gmail.com
 
-smueller.tampa.ai@gmail.com
-
-MomsSafetyNet.com
 ---
 ## Tampa.ai
 
