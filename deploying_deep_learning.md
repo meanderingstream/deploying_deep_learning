@@ -206,6 +206,12 @@ https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
 ---
 Questions?
 ---
+## Study Group
+
+https://ai-tampa-study-group.github.io/meetings/
+
+---
+
 [MomsSafetyNet.com](https://www.momssafetynet.com/team.html)
 
 Looking for Founder Engineers
