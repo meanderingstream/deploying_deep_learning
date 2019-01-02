@@ -7,6 +7,7 @@ revealOptions:
 ## Intro
 
 Scott Mueller
+
 smueller.tampa.ai@gmail.com
 
 MomsSafetyNet.com
@@ -35,14 +36,14 @@ Looking for Presenters
 > Higher-scale --> Resources to solve that challenge
 ---
 ## Normal Father-Son Activities
-<img src="./images/database_relations.png"  width="500">
+<img src="./images/NormalFatherSon.jpg"  height="500">
 
 ---
 ## Data Science Father-Son
-<img src="./images/database_relations.png"  width="500">
+<img src="./images/FatherSon.jpg"  width="500">
 ---
 ## Fast.ai v3
-[TeddyBear Classifier]
+<img src="./images/bears.png"  width="500">
 ---
 ## Good Friends
 <img src="./images/TabularPredictions.png"  width="500">
@@ -72,7 +73,7 @@ Looking for Presenters
 [Picture of accuracy]
 ---
 ## Let's Build a Website
-[Need Website Picture]
+<img src="./images/file_uploader.png"  width="800">
 ---
 ## What could go wrong?
 
@@ -90,7 +91,15 @@ Looking for Presenters
 <img src="./images/Inference.png"  width="400">
 ---
 ## Example Inference Code
-[inference snippet Dog breed]
+
+```python
+pred_class,pred_idx,outputs = learn.predict(img)
+pred_class
+```
+
+```python
+'black'
+```
 ---
 ## Architectures for Function Calls
 
@@ -116,23 +125,25 @@ Looking for Presenters
 ---
 ## Serverless
 
-[Zeit.cm]
+<img src="./images/zeit_now.png"  width="500">
 
-[url to web site]
+https://zeit.co/
 ---
-[Picture of Guide]
+<img src="./images/zeit_guide.png"  width="700">
 ---
 ## Flask Server
 
 * Simple Python Server
 
-[FLask]
+<img src="./images/flask_server.png"  width="700">
 
-[url to Flask]
+http://flask.pocoo.org/]
 ---
 Productionizing Flask
 
-[Find a recommendation]
+<img src="./images/gunicorn.png"  width="700">
+
+https://vsupalov.com/flask-web-server-in-production/
 
 ---
 ## Remote communication via JSON
@@ -142,7 +153,40 @@ Productionizing Flask
 * Direct Service Access by 3rd Party 
 ---
 ## Distributed Procedure Call
-[Elixir Calling Python]
+```elixir
+  @doc """
+  Call python function using MFA format
+  """
+  def call_python(pid, module, function, arguments \\ []) do
+    pid
+    |>:python.call(module, function, arguments)
+
+  end
+```
+---
+## Example Applications
+
+https://github.com/nikhilno1/healthy-or-not/blob/master/heroku-deploy.md
+
+https://github.com/dzlab/deepprojects/tree/master/emotion-classifier
+
+https://hackernoon.com/anothernothotdog-280ee5b86fb3
+
+https://github.com/keyurparalkar/ASL-live-predictor
+
+---
+
+https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf
+
+https://github.com/etown/dl1/blob/master/face/README.md
+
+https://github.com/EdwardJRoss/whatcar
+
+https://medium.com/datadriveninvestor/building-a-cold-or-canker-sores-classifier-app-using-deep-learning-242b8c80fbe5
+
+https://github.com/tamlyn/treeid
+
+
 ---
 ## Optimization
 
@@ -154,6 +198,11 @@ Productionizing Flask
 - Train accurate, complex model
 
 - Train a simpler model from complex model
+---
+<img src="./images/knowledge_distillation_medium_com_neural_machines.png"  width="600">
+
+https://medium.com/neural-machines/knowledge-distillation-dc241d7c2322
+
 ---
 Questions?
 ---
